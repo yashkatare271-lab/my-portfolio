@@ -411,7 +411,7 @@ export default function App() {
                         description="Visme – Design & Presentation Tool"
                         icon={<BotIcon className="w-12 h-12 text-white" />}
                         gradient="from-green-500 to-teal-600"
-                        tags={['Industry Prospecting', 'Technical Niches', 'Niche Edits ', 'Real-time']}
+                        tags={['Guest Posting', 'Niche Edits', 'SaaS Backlinks ', 'Outreach']}
                         points={[
                             "Secured editorial backlinks from marketing & design websites",
                             "Homepage and feature pages linked contextually",
@@ -426,7 +426,7 @@ export default function App() {
 "
                         icon={<BriefcaseIcon className="w-12 h-12 text-white" />}
                         gradient="from-amber-500 to-orange-600"
-                        tags={['Link Building', 'Guest Posts', 'Niche Edits', 'Competitor Analysis', 'SEO Strategy']}
+                        tags={['Link Building', 'Contextual Backlinks', 'Niche Edits', 'Competitor Analysis', 'SEO Strategy']}
                         points={[
                             "Built backlinks from SEO and digital marketing platforms",
                             "Focused on service pages and homepage authority",
@@ -440,7 +440,7 @@ export default function App() {
                         description=" Ondato – KYC & AML Compliance"
                         icon={<TrendingUpIcon className="w-12 h-12 text-white" />}
                         gradient="from-indigo-500 to-purple-600"
-                        tags={['White-Hat Outreach', 'Guest Posts', 'SaaS Backlinks', 'Competitor Analysis  ']}
+                        tags={['White-Hat Outreach', 'Guest Posts', 'SaaS SEO', 'Brand Outreach  ']}
                         points={[
                             "Earned backlinks from fintech & compliance niche sites",
                             "Linked homepage and AML/KYC solution pages",
@@ -454,7 +454,7 @@ export default function App() {
                         description="Remofirst – Global HR & Payroll (Listicle Campaign)"
                         icon={<BotIcon className="w-12 h-12 text-white" />}
                         gradient="from-green-500 to-teal-600"
-                        tags={['Industry Prospecting', 'Technical Niches', 'Niche Edits ', 'Real-time']}
+                        tags={['High-DA Backlinks', 'Technical Niches', 'Competitor Research', 'Real-time']}
                         points={[
                             "Featured in “Best Global HR & Payroll Tools” listicle articles",
                             "Homepage + service/pricing pages linked",
@@ -468,7 +468,7 @@ export default function App() {
                         description="MightyCall – Business Phone System"
                         icon={<BriefcaseIcon className="w-12 h-12 text-white" />}
                         gradient="from-amber-500 to-orange-600"
-                        tags={['Link Building', 'Guest Posts', 'Niche Edits', 'Competitor Analysis', 'SEO Strategy']}
+                        tags={['Authority Links', 'Editorial Backlinks', 'Niche Edits', 'Competitor Analysis']}
                         points={[
                             "Built contextual backlinks from SaaS & VoIP blogs",
                             "Linked homepage and communication solution pages",
@@ -510,7 +510,7 @@ export default function App() {
                         description="Hublead – Lead Generation Platform"
                         icon={<BriefcaseIcon className="w-12 h-12 text-white" />}
                         gradient="from-amber-500 to-orange-600"
-                        tags={['Link Building', 'Guest Posts', 'Niche Edits', 'Competitor Analysis', 'SEO Strategy']}
+                        tags={['Link Building', 'Guest Posts', 'High-DA Backlinks', 'SEO Strategy']}
                         points={[
                             "Built backlinks from CRM & lead-gen niche websites",
                             "Homepage and solution pages targeted",
@@ -538,7 +538,7 @@ export default function App() {
                         description="Eddy Pump – Industrial Solutions"
                         icon={<BotIcon className="w-12 h-12 text-white" />}
                         gradient="from-green-500 to-teal-600"
-                        tags={['Industry Prospecting', 'Technical Niches', 'Niche Edits ', 'Real-time']}
+                        tags={['SaaS Outreach', 'Technical Niches', 'Niche Edits ', 'Anchor Strategy']}
                         points={[
                             "Built backlinks from engineering & industrial websites",
                             "Linked homepage and product pages",
@@ -552,7 +552,7 @@ export default function App() {
                         description="ShedPlans – Construction & Home Improvement"
                         icon={<BriefcaseIcon className="w-12 h-12 text-white" />}
                         gradient="from-amber-500 to-orange-600"
-                        tags={['Link Building', 'Guest Posts', 'Niche Edits', 'Competitor Analysis', 'SEO Strategy']}
+                        tags={['SEO Strategy', 'Guest Posts', 'Niche Edits', 'Competitor Analysis', 'Link Building' ]}
                         points={[
                             "Earned backlinks from home improvement blogs",
                             "Homepage and plan category pages linked",
@@ -566,10 +566,10 @@ export default function App() {
                         description="EasyCoop – Poultry & Farm Management"
                         icon={<TrendingUpIcon className="w-12 h-12 text-white" />}
                         gradient="from-indigo-500 to-purple-600"
-                        tags={['White-Hat Outreach', 'Guest Posts', 'SaaS Backlinks', 'Competitor Analysis  ']}
+                        tags={['SaaS Backlinks', 'Guest Posts', 'Outreach Campaigns', 'Competitor Analysis  ']}
                         points={[
                             "Built backlinks from agriculture & farming platforms",
-                            "Homepage and solution pages linked",
+                            "Homepage a nd solution pages linked",
                             "Niche-specific anchor strategy",
                             "Improved targeted rural & B2B traffic",
                             "Result: 📈 +28% traffic growth"
@@ -580,7 +580,7 @@ export default function App() {
                         description="Business Card Junction – Printing Services"
                         icon={<BotIcon className="w-12 h-12 text-white" />}
                         gradient="from-green-500 to-teal-600"
-                        tags={['Python', 'Fyers API', 'SMA Strategy', 'Real-time']}
+                        tags={['Outreach', ' Editorial Links', 'SMA Strategy', 'Competitor Analysis']}
                         points={[
                             "Secured backlinks from business & printing blogs",
                             "Homepage and product pages linked",
@@ -1231,4 +1231,5 @@ const CertificationCard = ({ title, subtitle, icon }) => (
         </div>
     </GlassCard>
 );
+
 
